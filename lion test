@@ -17,7 +17,7 @@ lkml;
 pids
 *.pid
 *.seed
-
+.np
 *.pid.lock
 8uuyh7i9
 
