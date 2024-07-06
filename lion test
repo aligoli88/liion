@@ -17,6 +17,7 @@ lkml;
 
 cf
 pids
+
 *.pid
 
 *.seed
