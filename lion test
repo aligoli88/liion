@@ -52,6 +52,7 @@ ffdg
 jhh
 # Coverage directory used by tools like istanbul
 ghj
+
 coverage
 *.lcov
 
